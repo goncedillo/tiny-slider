@@ -139,6 +139,7 @@ $perpage: 3;
       width: calc(100% / #{$count});
       height: $height;
       float: left;
+      display: inline-block;
     }
   }
 }
